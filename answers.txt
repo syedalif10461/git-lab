@@ -1,0 +1,11 @@
+1. It adds a change in the working directory to the staging area. 
+It notifies git that it wants to include updates to a certain file in the next commit
+
+2.It records your changes locally, 
+allowing for detailed tracking and control over the changes made in the project
+
+3.Git clone creates a local copy of a remote repository,
+while git pull Updates your existing local repository with changes from a remote repository
+
+4.Check the ouput of the git pull command and after running git pull there should be text 
+saying that it is up to date
